@@ -1,0 +1,3 @@
+# temp file creation for making a folder again.
+
+Add the required contents in the folder and temp text file can be removed again to work with the folder.
